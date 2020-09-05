@@ -1,0 +1,5 @@
+Halo Pak, nama saya Hesti dari Bandung.
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Membuat website menggunakan angular
